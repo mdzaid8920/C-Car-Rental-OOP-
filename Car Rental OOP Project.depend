@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1650192187 source:e:\zaid\car rental oop project\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+
